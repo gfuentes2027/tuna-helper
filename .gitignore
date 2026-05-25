@@ -1,0 +1,22 @@
+# Code Composer Studio build folders
+Debug/
+Release/
+
+# Compiled output files
+*.out
+*.map
+*.hex
+*.bin
+*.elf
+*.obj
+*.o
+*.d
+
+# CCS generated files
+.settings/
+.launches/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
